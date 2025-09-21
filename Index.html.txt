@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirect to Apps Script</title>
+  <!-- 0 সেকেন্ডে রিডাইরেক্ট -->
+  <meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/AKfycbwfHb_XNvFglLXUHDsVbEVPOkBfHqJJ87RCQUDnhnszPwnlwS1LwbZ81aJ2bDWk0CEY-w/exec">
+</head>
+<body>
+  Redirecting...
+</body>
+</html>
